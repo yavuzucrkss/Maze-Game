@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(30,11): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(137,23): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(154,28): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(218,19): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(221,19): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(224,19): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(227,19): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+D:\Desktop\github projeler\Maze-Game\MazeGame\main.cpp(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MazeGame.vcxproj -> D:\Desktop\github projeler\Maze-Game\MazeGame\x64\Debug\MazeGame.exe
